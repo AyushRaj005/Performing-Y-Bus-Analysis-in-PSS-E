@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 
 This project focuses on performing **Power System Analysis** of the IEEE 9-Bus System using **Siemens PSS/E** and **MATLAB**. It covers single line diagram creation, Y-Bus matrix construction, load flow studies (Gauss-Seidel, Newton-Raphson, and Decoupled methods), and dynamic analysis.
+A part of a book was writting as a guidance of how to use PSSE for Performing Y bus. 
 
 ---
 
