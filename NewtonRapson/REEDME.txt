@@ -1,0 +1,7 @@
+The algorithm contains several functions, to execute the program run the file: Powerflow_Ramirez_Barron.m
+The folder have 3 script with information about diferent power systems. One of 5 buses, another one f 39 buses
+and the last one of 190. 
+When you execute Powerflow_Ramirez_Barron.m a menu will display offering you with which power system you would
+like to run the power flow program.
+After it, another menu will appear containing the results of power flow.
+
